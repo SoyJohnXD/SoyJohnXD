@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Londoño</h1>
-<h3 align="center">Student at Politecnico Grancolombiano🌟.</h3>
+<h3 align="center">Systems engineer🌟.</h3>
 
 <br>
 
